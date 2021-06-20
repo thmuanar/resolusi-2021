@@ -1,4 +1,4 @@
 Resolusi 2021
 - Belajar Laravel
 - Belajar NodeJS
-- Belajar Database NoSQL
+- belajar SCSS
